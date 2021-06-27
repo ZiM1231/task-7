@@ -1,0 +1,70 @@
+body{
+	font-family: 'Nothing You Could Do', cursive;
+	color: #000000;
+	margin: 0;
+
+}
+h1{
+	font-size: 20px;
+	margin-top: 320px;
+	color: #000000;
+}
+.container{
+	width: 900px;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.container-1{
+	display: flex;
+}
+
+
+
+.header{
+	border: 1px solid silver;
+	height: 400px;
+	background: url(https://i2.wp.com/www.lilistravelplans.com/wp-content/uploads/2018/08/P1470128-3.jpg?fit=1920%2C700&ssl=1);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+	font-size: 30px;
+	text-align: center;
+	margin-bottom: 40px; 
+	padding: 0;
+}
+
+.box-1{
+	flex: 1.5;
+	font-size: 30px;
+	color: #ffffff;
+	height: 500px;
+}
+
+.box-2{
+	flex: 2;
+	font-size: 30px;
+	margin-left: 30px;
+	height: 300px; 
+	
+}
+
+.text-1{
+	border-style: solid;
+	border-width: 1px 1px 1px 1px;
+	border-color: #e5e5e5;
+	
+}
+.box-2 p{
+	margin-top: 15px;
+}
+
+p{
+	margin: 0;
+	color: #000000;
+	font-size: 20px; 
+	text-align: center; 
+	margin-bottom: 15px;
+}
+
